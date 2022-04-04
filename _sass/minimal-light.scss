@@ -31,8 +31,9 @@ body {
 .social-icons a:last-child{
   margin-right:0}
 
-.social-icons a:hover{
-  background-color:#38b3f5;}
+.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
+  color:black;
+  transform: scale(1.2)}
 
 @media (prefers-color-scheme: dark) { .social-icons a:hover { background-color: #043361; }}
 
