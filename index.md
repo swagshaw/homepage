@@ -191,7 +191,7 @@ My research lies at the intersection of **computer vision** and **machine learni
       <a href="https://mtl.yyliu.net/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yyliu.net/CVPR19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
 <br>
-<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i>500+ Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
+<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i>600+ Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
@@ -208,7 +208,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Teaching
 
-- Teaching Assistant, [High Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Saarland University](https://www.uni-saarland.de/), SS2021 and SS2022
+- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Saarland University](https://www.uni-saarland.de/), SS2021 and SS2022
 
 ## Services
 
@@ -264,6 +264,6 @@ My research lies at the intersection of **computer vision** and **machine learni
 </ul>
 
 ## Contact
-**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken](https://g.page/MPI-INF)
+**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
 <br>
 **Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
