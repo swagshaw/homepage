@@ -1,8 +1,3 @@
 # yaoyao-liu.github.io
 
-Install and run:
-
-```bash
-bundle install
-bundle exec jekyll server
-```
+How to use: <https://github.com/yaoyao-liu/minimal-light>
