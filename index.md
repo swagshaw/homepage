@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a third-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/). I am also co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/) in [the Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at [the University of Oxford](https://www.ox.ac.uk/) in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc). Meanwhile, I also work closely with [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am currently a third-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/). As part of the [ELLIS Ph.D. Program](https://ellis.eu/phd-postdoc), I am also co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/), with a planned exchange in [the Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at [the University of Oxford](https://www.ox.ac.uk/). Meanwhile, I also work closely with [Prof. Qianru Sun](https://qianrusun.com/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
@@ -262,8 +262,9 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
   -->
 </ul>
-
+<!--
 ## Contact
 **Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
 <br>
 **Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
+-->
